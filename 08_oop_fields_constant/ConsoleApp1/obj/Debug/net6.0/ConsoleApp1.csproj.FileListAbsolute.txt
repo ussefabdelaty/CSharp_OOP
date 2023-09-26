@@ -1,0 +1,15 @@
+E:\issam_csharp\08_oop_fields_constant\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.exe
+E:\issam_csharp\08_oop_fields_constant\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.deps.json
+E:\issam_csharp\08_oop_fields_constant\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.runtimeconfig.json
+E:\issam_csharp\08_oop_fields_constant\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.dll
+E:\issam_csharp\08_oop_fields_constant\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.pdb
+E:\issam_csharp\08_oop_fields_constant\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.csproj.AssemblyReference.cache
+E:\issam_csharp\08_oop_fields_constant\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+E:\issam_csharp\08_oop_fields_constant\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.AssemblyInfoInputs.cache
+E:\issam_csharp\08_oop_fields_constant\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.AssemblyInfo.cs
+E:\issam_csharp\08_oop_fields_constant\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+E:\issam_csharp\08_oop_fields_constant\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.dll
+E:\issam_csharp\08_oop_fields_constant\ConsoleApp1\obj\Debug\net6.0\refint\ConsoleApp1.dll
+E:\issam_csharp\08_oop_fields_constant\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.pdb
+E:\issam_csharp\08_oop_fields_constant\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.genruntimeconfig.cache
+E:\issam_csharp\08_oop_fields_constant\ConsoleApp1\obj\Debug\net6.0\ref\ConsoleApp1.dll
