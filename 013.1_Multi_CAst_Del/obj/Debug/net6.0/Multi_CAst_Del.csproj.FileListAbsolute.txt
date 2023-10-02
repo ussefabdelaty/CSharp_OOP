@@ -1,0 +1,15 @@
+E:\issam_csharp\02_oop\013_delegates\Multi_CAst_Del\bin\Debug\net6.0\Multi_CAst_Del.exe
+E:\issam_csharp\02_oop\013_delegates\Multi_CAst_Del\bin\Debug\net6.0\Multi_CAst_Del.deps.json
+E:\issam_csharp\02_oop\013_delegates\Multi_CAst_Del\bin\Debug\net6.0\Multi_CAst_Del.runtimeconfig.json
+E:\issam_csharp\02_oop\013_delegates\Multi_CAst_Del\bin\Debug\net6.0\Multi_CAst_Del.dll
+E:\issam_csharp\02_oop\013_delegates\Multi_CAst_Del\bin\Debug\net6.0\Multi_CAst_Del.pdb
+E:\issam_csharp\02_oop\013_delegates\Multi_CAst_Del\obj\Debug\net6.0\Multi_CAst_Del.csproj.AssemblyReference.cache
+E:\issam_csharp\02_oop\013_delegates\Multi_CAst_Del\obj\Debug\net6.0\Multi_CAst_Del.GeneratedMSBuildEditorConfig.editorconfig
+E:\issam_csharp\02_oop\013_delegates\Multi_CAst_Del\obj\Debug\net6.0\Multi_CAst_Del.AssemblyInfoInputs.cache
+E:\issam_csharp\02_oop\013_delegates\Multi_CAst_Del\obj\Debug\net6.0\Multi_CAst_Del.AssemblyInfo.cs
+E:\issam_csharp\02_oop\013_delegates\Multi_CAst_Del\obj\Debug\net6.0\Multi_CAst_Del.csproj.CoreCompileInputs.cache
+E:\issam_csharp\02_oop\013_delegates\Multi_CAst_Del\obj\Debug\net6.0\Multi_CAst_Del.dll
+E:\issam_csharp\02_oop\013_delegates\Multi_CAst_Del\obj\Debug\net6.0\refint\Multi_CAst_Del.dll
+E:\issam_csharp\02_oop\013_delegates\Multi_CAst_Del\obj\Debug\net6.0\Multi_CAst_Del.pdb
+E:\issam_csharp\02_oop\013_delegates\Multi_CAst_Del\obj\Debug\net6.0\Multi_CAst_Del.genruntimeconfig.cache
+E:\issam_csharp\02_oop\013_delegates\Multi_CAst_Del\obj\Debug\net6.0\ref\Multi_CAst_Del.dll
