@@ -1,0 +1,15 @@
+E:\issam_csharp\02_oop\014_Event\ConsoleApp1\obj\Debug\net6.0\CaEvent.csproj.AssemblyReference.cache
+E:\issam_csharp\02_oop\014_Event\ConsoleApp1\obj\Debug\net6.0\CaEvent.GeneratedMSBuildEditorConfig.editorconfig
+E:\issam_csharp\02_oop\014_Event\ConsoleApp1\obj\Debug\net6.0\CaEvent.AssemblyInfoInputs.cache
+E:\issam_csharp\02_oop\014_Event\ConsoleApp1\obj\Debug\net6.0\CaEvent.AssemblyInfo.cs
+E:\issam_csharp\02_oop\014_Event\ConsoleApp1\obj\Debug\net6.0\CaEvent.csproj.CoreCompileInputs.cache
+E:\issam_csharp\02_oop\014_Event\ConsoleApp1\bin\Debug\net6.0\CaEvent.exe
+E:\issam_csharp\02_oop\014_Event\ConsoleApp1\bin\Debug\net6.0\CaEvent.deps.json
+E:\issam_csharp\02_oop\014_Event\ConsoleApp1\bin\Debug\net6.0\CaEvent.runtimeconfig.json
+E:\issam_csharp\02_oop\014_Event\ConsoleApp1\bin\Debug\net6.0\CaEvent.dll
+E:\issam_csharp\02_oop\014_Event\ConsoleApp1\bin\Debug\net6.0\CaEvent.pdb
+E:\issam_csharp\02_oop\014_Event\ConsoleApp1\obj\Debug\net6.0\CaEvent.dll
+E:\issam_csharp\02_oop\014_Event\ConsoleApp1\obj\Debug\net6.0\refint\CaEvent.dll
+E:\issam_csharp\02_oop\014_Event\ConsoleApp1\obj\Debug\net6.0\CaEvent.pdb
+E:\issam_csharp\02_oop\014_Event\ConsoleApp1\obj\Debug\net6.0\CaEvent.genruntimeconfig.cache
+E:\issam_csharp\02_oop\014_Event\ConsoleApp1\obj\Debug\net6.0\ref\CaEvent.dll
