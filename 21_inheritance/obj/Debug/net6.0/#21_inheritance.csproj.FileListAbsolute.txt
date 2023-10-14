@@ -1,0 +1,15 @@
+E:\issam_csharp\02_oop\#21_inheritance\bin\Debug\net6.0\#21_inheritance.exe
+E:\issam_csharp\02_oop\#21_inheritance\bin\Debug\net6.0\#21_inheritance.deps.json
+E:\issam_csharp\02_oop\#21_inheritance\bin\Debug\net6.0\#21_inheritance.runtimeconfig.json
+E:\issam_csharp\02_oop\#21_inheritance\bin\Debug\net6.0\#21_inheritance.dll
+E:\issam_csharp\02_oop\#21_inheritance\bin\Debug\net6.0\#21_inheritance.pdb
+E:\issam_csharp\02_oop\#21_inheritance\obj\Debug\net6.0\#21_inheritance.csproj.AssemblyReference.cache
+E:\issam_csharp\02_oop\#21_inheritance\obj\Debug\net6.0\#21_inheritance.GeneratedMSBuildEditorConfig.editorconfig
+E:\issam_csharp\02_oop\#21_inheritance\obj\Debug\net6.0\#21_inheritance.AssemblyInfoInputs.cache
+E:\issam_csharp\02_oop\#21_inheritance\obj\Debug\net6.0\#21_inheritance.AssemblyInfo.cs
+E:\issam_csharp\02_oop\#21_inheritance\obj\Debug\net6.0\#21_inheritance.csproj.CoreCompileInputs.cache
+E:\issam_csharp\02_oop\#21_inheritance\obj\Debug\net6.0\#21_inheritance.dll
+E:\issam_csharp\02_oop\#21_inheritance\obj\Debug\net6.0\refint\#21_inheritance.dll
+E:\issam_csharp\02_oop\#21_inheritance\obj\Debug\net6.0\#21_inheritance.pdb
+E:\issam_csharp\02_oop\#21_inheritance\obj\Debug\net6.0\#21_inheritance.genruntimeconfig.cache
+E:\issam_csharp\02_oop\#21_inheritance\obj\Debug\net6.0\ref\#21_inheritance.dll
