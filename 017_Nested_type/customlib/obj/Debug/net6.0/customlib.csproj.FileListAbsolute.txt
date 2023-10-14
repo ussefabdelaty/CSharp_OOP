@@ -1,0 +1,12 @@
+E:\issam_csharp\02_oop\Nested_type\customlib\bin\Debug\net6.0\customlib.deps.json
+E:\issam_csharp\02_oop\Nested_type\customlib\bin\Debug\net6.0\customlib.dll
+E:\issam_csharp\02_oop\Nested_type\customlib\bin\Debug\net6.0\customlib.pdb
+E:\issam_csharp\02_oop\Nested_type\customlib\obj\Debug\net6.0\customlib.csproj.AssemblyReference.cache
+E:\issam_csharp\02_oop\Nested_type\customlib\obj\Debug\net6.0\customlib.GeneratedMSBuildEditorConfig.editorconfig
+E:\issam_csharp\02_oop\Nested_type\customlib\obj\Debug\net6.0\customlib.AssemblyInfoInputs.cache
+E:\issam_csharp\02_oop\Nested_type\customlib\obj\Debug\net6.0\customlib.AssemblyInfo.cs
+E:\issam_csharp\02_oop\Nested_type\customlib\obj\Debug\net6.0\customlib.csproj.CoreCompileInputs.cache
+E:\issam_csharp\02_oop\Nested_type\customlib\obj\Debug\net6.0\customlib.dll
+E:\issam_csharp\02_oop\Nested_type\customlib\obj\Debug\net6.0\refint\customlib.dll
+E:\issam_csharp\02_oop\Nested_type\customlib\obj\Debug\net6.0\customlib.pdb
+E:\issam_csharp\02_oop\Nested_type\customlib\obj\Debug\net6.0\ref\customlib.dll
