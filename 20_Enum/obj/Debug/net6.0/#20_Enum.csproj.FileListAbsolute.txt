@@ -1,0 +1,15 @@
+E:\issam_csharp\02_oop\#20_Enum\bin\Debug\net6.0\#20_Enum.exe
+E:\issam_csharp\02_oop\#20_Enum\bin\Debug\net6.0\#20_Enum.deps.json
+E:\issam_csharp\02_oop\#20_Enum\bin\Debug\net6.0\#20_Enum.runtimeconfig.json
+E:\issam_csharp\02_oop\#20_Enum\bin\Debug\net6.0\#20_Enum.dll
+E:\issam_csharp\02_oop\#20_Enum\bin\Debug\net6.0\#20_Enum.pdb
+E:\issam_csharp\02_oop\#20_Enum\obj\Debug\net6.0\#20_Enum.csproj.AssemblyReference.cache
+E:\issam_csharp\02_oop\#20_Enum\obj\Debug\net6.0\#20_Enum.GeneratedMSBuildEditorConfig.editorconfig
+E:\issam_csharp\02_oop\#20_Enum\obj\Debug\net6.0\#20_Enum.AssemblyInfoInputs.cache
+E:\issam_csharp\02_oop\#20_Enum\obj\Debug\net6.0\#20_Enum.AssemblyInfo.cs
+E:\issam_csharp\02_oop\#20_Enum\obj\Debug\net6.0\#20_Enum.csproj.CoreCompileInputs.cache
+E:\issam_csharp\02_oop\#20_Enum\obj\Debug\net6.0\#20_Enum.dll
+E:\issam_csharp\02_oop\#20_Enum\obj\Debug\net6.0\refint\#20_Enum.dll
+E:\issam_csharp\02_oop\#20_Enum\obj\Debug\net6.0\#20_Enum.pdb
+E:\issam_csharp\02_oop\#20_Enum\obj\Debug\net6.0\#20_Enum.genruntimeconfig.cache
+E:\issam_csharp\02_oop\#20_Enum\obj\Debug\net6.0\ref\#20_Enum.dll
