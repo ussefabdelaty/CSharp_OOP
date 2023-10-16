@@ -1,0 +1,15 @@
+E:\issam_csharp\02_oop\22_interface_ex\obj\Debug\net6.0\22_interface_ex.csproj.AssemblyReference.cache
+E:\issam_csharp\02_oop\22_interface_ex\obj\Debug\net6.0\22_interface_ex.GeneratedMSBuildEditorConfig.editorconfig
+E:\issam_csharp\02_oop\22_interface_ex\obj\Debug\net6.0\22_interface_ex.AssemblyInfoInputs.cache
+E:\issam_csharp\02_oop\22_interface_ex\obj\Debug\net6.0\22_interface_ex.AssemblyInfo.cs
+E:\issam_csharp\02_oop\22_interface_ex\obj\Debug\net6.0\22_interface_ex.csproj.CoreCompileInputs.cache
+E:\issam_csharp\02_oop\22_interface_ex\bin\Debug\net6.0\22_interface_ex.exe
+E:\issam_csharp\02_oop\22_interface_ex\bin\Debug\net6.0\22_interface_ex.deps.json
+E:\issam_csharp\02_oop\22_interface_ex\bin\Debug\net6.0\22_interface_ex.runtimeconfig.json
+E:\issam_csharp\02_oop\22_interface_ex\bin\Debug\net6.0\22_interface_ex.dll
+E:\issam_csharp\02_oop\22_interface_ex\bin\Debug\net6.0\22_interface_ex.pdb
+E:\issam_csharp\02_oop\22_interface_ex\obj\Debug\net6.0\22_interface_ex.dll
+E:\issam_csharp\02_oop\22_interface_ex\obj\Debug\net6.0\refint\22_interface_ex.dll
+E:\issam_csharp\02_oop\22_interface_ex\obj\Debug\net6.0\22_interface_ex.pdb
+E:\issam_csharp\02_oop\22_interface_ex\obj\Debug\net6.0\22_interface_ex.genruntimeconfig.cache
+E:\issam_csharp\02_oop\22_interface_ex\obj\Debug\net6.0\ref\22_interface_ex.dll
